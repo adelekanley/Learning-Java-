@@ -1,0 +1,3 @@
+int x = 0;
+int i = 9;
+int fin = x + i;
